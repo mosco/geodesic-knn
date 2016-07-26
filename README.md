@@ -1,0 +1,3 @@
+Prerequisits:
+SciPy
+heapdict
